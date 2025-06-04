@@ -13,4 +13,4 @@ Description: Performs Covariate Assisted Principal (CAP) Regression for covarian
 Depends: MASS, multigroup
 License: GPL (>=2)
 Remotes:
-    url::https://cran.r-project.org/src/contrib/Archive/multigroup/multigroup_0.4.5.tar.gz
+    multigroup=url::https://cran.r-project.org/src/contrib/Archive/multigroup/multigroup_0.4.5.tar.gz
